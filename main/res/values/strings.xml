@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TRASHY</string>
+
+    <!-- Activity names -->
+    <string name="color_font_name">Gelbe Tonne</string>
+    <string name="style_name">Blaue Tonne</string>
+    <string name="responsive_layout_name">Braune Tonne</string>
+    <string name="touch_selectors_name">Schwarze Tonne</string>
+
+
+    <!-- Strings for use in the colors and fonts activity -->
+    <string name="light_56">Kunststoff Mülltonne</string>
+   <string name="thin_italic_45"></string>
+   <string name="condensed_34"></string>
+    <string name="reg_24">Infos zu der Gelben Tonne blablablablablabla</string>
+    <string name="medium_20"></string>
+    <string name="smallcaps_16"></string>
+
+    <!-- Strings used in the style activity -->
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="drafts">Drafts</string>
+    <string name="sent">Sent</string>
+    <string name="trash">Trash</string>
+
+    <!-- Strings used in the responsive layout activity -->
+    <string name="image_placeholder">Image placeholder.</string>
+    <string name="sample_title">Material Design</string>
+    <string name="sample_date"></string>
+    <string name="sample_body_text">Responsive design is the act of creating designs that respond
+        to a variety of screen sizes, shapes, and orientations.</string>
+
+    <!-- Strings used in the touch selectors activity -->
+    <string name="person_icon">Icon of a person.</string>
+    <string name="first">First_name</string>
+    <string name="last">Last_name</string>
+
+</resources>
